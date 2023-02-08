@@ -12,7 +12,7 @@
   padding: 10px;
   text-align: center;
   color: white;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 .box:nth-child(even){
   background-color: cyan;
