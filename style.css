@@ -13,6 +13,7 @@
   text-align: center;
   color: white;
   border-radius: 10px;
+  font-weight: bold;
 }
 .box:nth-child(even){
   background-color: cyan;
