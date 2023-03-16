@@ -6,3 +6,6 @@ elif xx<0:
     print("Negative")
 for i in range(100):
     print(i)
+def add(a,b):
+    return a+b
+print(add(1,2))
