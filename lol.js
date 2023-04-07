@@ -4,3 +4,6 @@ var data = await fetch('https://jsonplaceholder.typicode.com/todos/1')
     .then(json => json);
 //print the data
 console.log(data);
+function ajaira(){
+    alert('Hello World')
+ let fun=()=>alert('Hello World')
