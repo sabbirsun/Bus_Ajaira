@@ -7,3 +7,4 @@ console.log(data);
 function ajaira(){
     alert('Hello World')
  let fun=()=>alert('Hello World')
+ //finally!!
