@@ -9,3 +9,6 @@ function ajaira(){
     alert('Hello World')
  let fun=()=>alert('Hello World')
  //finally!!
+let lol=()=>{
+    console.table(xz)
+    }
