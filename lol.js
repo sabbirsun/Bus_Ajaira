@@ -15,3 +15,6 @@ function ajaira(){
 let lol=()=>{
     console.table(xz)
     }
+function boss(text){
+    return text;
+}
