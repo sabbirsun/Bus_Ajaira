@@ -6,6 +6,7 @@ var data = await fetch('https://jsonplaceholder.typicode.com/todos/1')
 //print the data
 //edited simply
 console.log(data)
+jjjkkkkkkjiii
 console.table(dTa)
 
 function ajaira(){
