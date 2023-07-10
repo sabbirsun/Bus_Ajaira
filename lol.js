@@ -4,7 +4,7 @@ var data = await fetch('https://jsonplaceholder.typicode.com/todos/1')
     .then(response => response.json())
     .then(json => json);
 //print the data
-//edited simply
+//edited simplyjjj
 console.log(data)
 jjjkkkkkkjiii
 console.table(dTa)
