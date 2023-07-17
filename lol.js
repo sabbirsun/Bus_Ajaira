@@ -1,4 +1,4 @@
-//make a simple api call to get the data
+//make a simple api call to get jyyjyjthe data
 frkjjj
 var data = await fetch('https://jsonplaceholder.typicode.com/todos/1')
     .then(response => response.json())
