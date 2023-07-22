@@ -1,4 +1,4 @@
-function lol(x){
+hhhhfunction lol(x){
     console.log(x);
 }
 // hhhvbjdwd
