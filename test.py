@@ -1,4 +1,4 @@
-x=input("Enter Number: ")
+yyyx=input("Enter Number: ")
 xx=int(x)
 if xx>0:
     print("Positive")
